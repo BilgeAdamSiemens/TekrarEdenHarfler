@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T14:15:09.918Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DYU4XIquSoC37OISdLGU" version="14.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-03T14:17:13.814Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ORO9-QJTtdWDVf7LJNUm" version="14.1.6" type="github">
   <diagram id="HrQ5GzSS9sCZxbHLEwDw" name="Page-1">
-    <mxGraphModel dx="2170" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="_caiqnrWtEYz0-12oMjS-3" value="girilenSozcukler=EXIT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328.5" y="370" width="143" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="_caiqnrWtEYz0-12oMjS-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_caiqnrWtEYz0-12oMjS-3">
+        <mxCell id="_caiqnrWtEYz0-12oMjS-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_caiqnrWtEYz0-12oMjS-3" target="_caiqnrWtEYz0-12oMjS-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="480" as="sourcePoint" />
-            <mxPoint x="400" y="950" as="targetPoint" />
+            <mxPoint x="500" y="1010" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="442" />
-              <mxPoint x="640" y="950" />
+              <mxPoint x="640" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -54,10 +54,15 @@
             <mxPoint x="480" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_caiqnrWtEYz0-12oMjS-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_caiqnrWtEYz0-12oMjS-7" target="_caiqnrWtEYz0-12oMjS-11">
+        <mxCell id="_caiqnrWtEYz0-12oMjS-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_caiqnrWtEYz0-12oMjS-7" target="_caiqnrWtEYz0-12oMjS-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="870" as="sourcePoint" />
-            <mxPoint x="450" y="900" as="targetPoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="398" y="920" />
+              <mxPoint x="120" y="920" />
+              <mxPoint x="120" y="442" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_caiqnrWtEYz0-12oMjS-11" value="BİTİR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
